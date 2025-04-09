@@ -42,13 +42,15 @@ h1 {
 .cor2 {
     background-color: #63B1BC;
     order: 3;
+    align-self: flex-start;
+    margin-left: 170px;
 }
 
 .cor3 {
     background-color: #EFB661;
     order: 2;
     align-self: flex-start;
-    margin-left: 20%;
+    margin-left: 90px;
 }
 
 .instrucoes {
